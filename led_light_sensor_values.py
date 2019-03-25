@@ -7,7 +7,7 @@ __maintainer__ = "pimylifeup.com"
 import RPi.GPIO as GPIO
 import time
 
-# setwarnings Suppresses the GPIO warnings. 
+# GPIO setwarnings Suppresses the GPIO warnings. 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
 
