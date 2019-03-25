@@ -84,7 +84,7 @@ def rc_time(pin_to_circuit):
 try:
     #Main loop
     while True:
-print rc_time(pin_to_circuit)
+        # print rc_time(pin_to_circuit)
         # Removed the print function call from 'print rc_time(pin_to_circuit) for python3 users.
         # For non-python3 users. Type: sudo python3 'insertFileName.py'. Or use: print rc_time(pin_to_circuit)
         rc_time(pin_to_circuit)
