@@ -1,6 +1,6 @@
 #!/usr/local/bin/python
 
-__author__ = 'Gus (Adapted from Adafruit), Malik (WiFiSunset - Added LED & Light Value Condition Statements)'
+__author__ = 'Gus (Adapted from Adafruit); Malik (Added LED & Light Value Condition Statements)'
 __license__ = "GPL"
 __maintainer__ = "pimylifeup.com"
 
